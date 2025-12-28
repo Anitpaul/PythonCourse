@@ -1,5 +1,5 @@
 # Write a python program to add two numbers
 
-a = 1000
+a = 1003
 z = 10
-print(int(a/z))
+print(int(a%z))
